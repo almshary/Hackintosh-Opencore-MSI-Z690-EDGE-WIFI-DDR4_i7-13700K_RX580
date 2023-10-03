@@ -2,6 +2,8 @@
 
 This is an OpenCore version of MSI Z690 EDGE WIFI DDR4 Hackintosh EFI. It works on macOS Vetura & Sonoma.
 
+![MSI-Z690-EDGE-WIFI-DDR4](https://raw.githubusercontent.com/almshary/Hackintosh-MSI-Z690-EDGE-WIFI-DDR4_i7-13700K_RX580/main/c5e4af48a59913c5ec18465f55bf5700-hi.jpg)
+
 ## Notes
 The SMBIOS to be set to MacPro7,1 (now preset, please modify it after the installation is completed).
 This config defaults to no verbose mode. To enable verbose mode, config.plist needs to modify the following item: NVRAM-Add-7C436110-AB2A-4BBB-A880-FE41995C9F82-boot-args, add -v.
