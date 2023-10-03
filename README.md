@@ -18,7 +18,7 @@ UTBMap.kext was customized for me based on the motherboard wiring. If you encoun
 | iGPU | Intel | UHD Graphics 770 | built-in | Headless mode |
 | dGPU | MSI | RX 580 Armor 4GB | built-in | 2304 SP |
 | SSD | Samsung | 980 PRO 1TB PCIe NVMe Gen4 | | |
-| WiFi/Bluetooth | Fenvi | T919 Wi-Fi 2.4/5GHz and Bluetooth 4.0 PCI-E Card | built-in | |
+| WiFi/Bluetooth | Fenvi | T919 PCI-E Card | Ventura(built-in) - Sonoma(OCLP) | |
 | Ethernet | Intel | I225-V | [AppleIntelI210Ethernet.kext] | |
 | Audio | Realtek | ALC897 | [AppleALC](https://github.com/acidanthera/AppleALC) | |
 | PSU | EVGA | SuperNOVA 650 G1 | | |
