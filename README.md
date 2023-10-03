@@ -11,6 +11,12 @@ The config startup disk policy ScanPolicy value is set to 0. Can boot Windows or
 This config defaults to not displaying the OC Picker menu. If you want to turn on the menu display, set it as follows: Misc-Boot-ShowPicker value is true (YES in the plist editor).
 UTBMap.kext was customized for me based on the motherboard wiring. If you encounter USB-related errors, you can customize UTBMap yourself, or cancel loading the kext and change the XhciPortLimit value to true.
 
+## Notes for macOS Sonoma
+
+If you using Fenvi Pci for Wifi and Bluetooth then you have to install OpenCore Legacy Patcher to get fully working of Wifi and Bluetooth and AirDrop & Handoff
+
+https://github.com/dortania/OpenCore-Legacy-Patcher
+
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
 |-----|-----|-----|-----|-----|
