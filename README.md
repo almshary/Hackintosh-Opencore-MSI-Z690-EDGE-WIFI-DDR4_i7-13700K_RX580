@@ -39,12 +39,12 @@ https://github.com/dortania/OpenCore-Legacy-Patcher
 | Name | Option |
 | --- | --- |
 | SR-IOV Support | Enabled |
+| DTM | Enabled |
 | CFG Lock | Disabled |
 | iGPU-Multi-Monitor | Disabled |
 | Fast Boot | Disabled |
 | Secure Boot | Disabled |
-| DTM | Enabled |
-| TPM 2.0 | Disabled |
+| Re-Size BAR Support | Disabled |
 
 ## :white_check_mark: Working:
 
