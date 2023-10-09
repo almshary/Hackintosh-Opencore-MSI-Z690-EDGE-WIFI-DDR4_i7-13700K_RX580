@@ -23,8 +23,7 @@ https://github.com/dortania/OpenCore-Legacy-Patcher
 | Motherboard | MSI | MPG Z690 EDGE WIFI DDR4 | | |
 | CPU | Intel | i7-13700K | | |
 | RAM | Corsair | Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz | | |
-| iGPU | Intel | UHD Graphics 770 | built-in | Headless mode |
-| dGPU | MSI | RX 580 Armor 4GB | built-in | 2304 SP |
+| dGPU | MSI | Radeon RX 580 ARMOR MK2 8G OC | built-in |  |
 | SSD | Samsung | 980 PRO 1TB PCIe NVMe Gen4 | | |
 | WiFi/Bluetooth | Fenvi | T919 PCI-E Card | [Ventura(built-in) - Sonoma(OCLP)] | |
 | Ethernet | Intel | I225-V | [AppleIntelI210Ethernet.kext] | |
