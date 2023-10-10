@@ -25,8 +25,8 @@ https://github.com/dortania/OpenCore-Legacy-Patcher
 | RAM | Corsair | Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz | | |
 | dGPU | MSI | Radeon RX 580 ARMOR MK2 8G OC | built-in |  |
 | SSD | Samsung | 980 PRO 1TB PCIe NVMe Gen4 | | |
-| WiFi/Bluetooth | Fenvi | T919 PCI-E Card | [Ventura(built-in) - Sonoma(OCLP)] | |
-| Ethernet | Intel | I225-V | [AppleIntelI210Ethernet.kext] | |
+| WiFi/Bluetooth | Fenvi | T919 PCI-E Card | Ventura(built-in) - Sonoma(OCLP) | |
+| Ethernet | Intel | I225-V | AppleIntelI210Ethernet.kext | |
 | Audio | Realtek | ALC897 | [AppleALC](https://github.com/acidanthera/AppleALC) | |
 | PSU | EVGA | SuperNOVA 650 G1 | | |
 | Case | inWin | 303 | | |
